@@ -1,7 +1,7 @@
 # Exploratory-Data-Analysys-EDA-
-Proses EDA pada data California Houses 
+Proses EDA pada data California Houses Prices
 
-Proses yang dilakukan adalah
+Proses yang dilakukan adalah :
 1. Membuka data
 2. Melihat infromasi data
 3. melihat nilai statistik data
